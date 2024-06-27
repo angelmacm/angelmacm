@@ -21,6 +21,13 @@ I am a passionate software engineer with a focus on backend development and a lo
 
 ## Projects and Contributions
 
+- [**XRPL Airdrop Discord Bot**]([https://github.com/angelmacm/SignSaya](https://github.com/angelmacm/xrpl-discord) "Github Link")
+  - Developed a Discord bot using Python and Discord's Interaction module for automating transactions on the XRP Ledger.
+  - Implemented functionality for sending XRP and custom coins to multiple addresses specified in a CSV file via a slash command in Discord.
+  - Overcame challenges in integrating custom coin transactions by utilizing trustlines for the 'issuer' parameter.
+  - Successfully deployed and tested the bot on the Testnet, ensuring all requests were processed correctly.
+  - Received positive feedback from the client, who plans to transition their existing bot to the one I developed.
+
 - [**SignSaya: Bridging Communication Gaps for Deaf Filipino Travelers**](https://github.com/angelmacm/SignSaya "Github Link")
   - Managed the entire embedded system development, from component selection to PCB design and embedded programming.
   - Created a Filipino Sign Language interpretation system using C++ and ESP-IDF with RTOS, integrated with a Flutter-based mobile application.
