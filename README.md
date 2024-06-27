@@ -21,7 +21,7 @@ I am a passionate software engineer with a focus on backend development and a lo
 
 ## Projects and Contributions
 
-- [**XRPL Airdrop Discord Bot**]([https://github.com/angelmacm/SignSaya](https://github.com/angelmacm/xrpl-discord) "Github Link")
+- [**XRPL Airdrop Discord Bot**](https://github.com/angelmacm/xrpl-discord "Github Link")
   - Developed a Discord bot using Python and Discord's Interaction module for automating transactions on the XRP Ledger.
   - Implemented functionality for sending XRP and custom coins to multiple addresses specified in a CSV file via a slash command in Discord.
   - Overcame challenges in integrating custom coin transactions by utilizing trustlines for the 'issuer' parameter.
