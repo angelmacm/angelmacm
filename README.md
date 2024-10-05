@@ -21,6 +21,15 @@ I am a passionate software engineer with a focus on backend development and a lo
 
 ## Projects and Contributions
 
+- [**XRPL Battle Royale Discord Bot**](https://github.com/angelmacm/XRAIN-Game "Github Link")
+  - Developed an interactive Battle Royale game for Discord, where users compete and the last man standing wins XRAIN Coin.
+  - The bot determines winners based on criteria drawn from cards each round, which influence gameplay and add excitement to the experience.
+  - Integrated with the XRP Ledger to automate reward distribution, creating a dynamic and competitive experience for the community.
+
+- [**XRPL Reward Redemptions Discord Bot**](https://github.com/angelmacm/xrain-bonus "Github Link")
+  - Created a rewards system bot for Discord where users can claim Daily Rewards, Reputation Rewards, and Bi-Weekly Rewards.
+  - Automated recurring rewards distribution, integrated with the XRP Ledger to streamline the process and maintain active user participation.
+
 - [**XRPL Airdrop Discord Bot**](https://github.com/angelmacm/xrpl-discord "Github Link")
   - Developed a Discord bot using Python and Discord's Interaction module for automating transactions on the XRP Ledger.
   - Implemented functionality for sending XRP and custom coins to multiple addresses specified in a CSV file via a slash command in Discord.
@@ -44,23 +53,31 @@ I am a passionate software engineer with a focus on backend development and a lo
 
 ## Work Experience
 
-- **Web Developer Intern**, Department of Science and Technology
-  - **June 2023 – August 2023**
-  - Independently developed a webpage using ReactJS for frontend and Laravel for backend.
-  - Ensured seamless integration and gained valuable skills in web development and problem-solving.
+- **Software Engineer**, BizKit Technologies Inc.
+  -  **July 2024 - Present**
+  -  Develop and maintain ERP solutions using JavaScript and Python.
+  -  Conduct regular code reviews on GitHub to ensure best practices and code quality.
+  -  Participate in the deployment rotation process, successfully managing error-free deployments.
+  -  Complete assigned tasks ahead of schedule, consistently meeting or exceeding sprint goals.
+  -  Collaborate with cross-functional teams to drive continuous improvement of the ERP product.
 
 - **Full Stack Developer Intern**, IT Squarehub Global Services Corporation
   - **February 2024 – April 2024**
   - Developed the full backend for an employee reward point tracking system, handling database management and API implementation.
   - Integrated APIs with the ReactTS frontend to automate the utilization of reward points.
 
+
+- **Web Developer Intern**, Department of Science and Technology
+  - **June 2023 – August 2023**
+  - Independently developed a webpage using ReactJS for frontend and Laravel for backend.
+  - Ensured seamless integration and gained valuable skills in web development and problem-solving.
+
 ---
 
 ## Education and Certifications
 
 - **Bachelor's Degree in Computer Engineering**
-  - Currently graduating student with Magna Cum Laude honors (1.21 GWA), Don Honorio Ventura State University
-  - Graduation Date: August 2024
+  - Graduated with Magna Cum Laude (1.21 GWA) at Don Honorio Ventura State University
 
 - **Certifications:**
   - Google IT Automation with Python Specialization – May 2023
@@ -70,7 +87,7 @@ I am a passionate software engineer with a focus on backend development and a lo
 
 ## Contact Information
 
-- **Email:** angelmac_m@yahoo.com
+- **Email:** cpe.angelmactmacapagal@gmail.com
 - **LinkedIn:** https://www.linkedin.com/in/angelmac-m
 
 ---
